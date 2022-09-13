@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663098364 source:c:\users\lostq\onedrive\documents\new folder\countdown_triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663083414 source:c:\users\lostq\onedrive\documents\new folder\sum_of_numbers_from_1_to_x\main.c
+	<stdio.h>
+	<stdlib.h>
+
